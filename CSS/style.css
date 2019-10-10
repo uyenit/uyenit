@@ -342,8 +342,8 @@
 		}	
 /*=====================05.SIDEBAR================================*/
 
-	.widgets {
-		margin-bottom: 17px;
+	.widgets + .widgets {
+		margin-top: 17px;
 	}
 
 	.widgets.style-02 .widget-title::after {
