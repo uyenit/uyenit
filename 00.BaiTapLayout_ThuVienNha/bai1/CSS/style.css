@@ -1,0 +1,76 @@
+/*============RESET CSS=================*/
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	} 
+
+	body {
+		font-size: 14px;
+		font-weight: 400;
+		color: #555555;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+	.container {
+		width: 1170px;
+		margin: 0 auto;
+	}
+
+	img {
+		max-width: 100%;
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+	.content {
+		margin-top: 10%;
+    	margin-left: 30%;
+    	margin-right: 30%;
+	}
+
+	.image img {
+		width: 40%;
+	}
+
+	p.title {
+		 color: rgba(55, 52, 53, 0.8);
+	    font-style: italic;
+	    margin-top: 50px;
+	    padding: 0 14px;
+	    /*font-size: 21px;*/
+	}
+
+	.block {
+		text-transform: uppercase;
+		font-weight: 700;
+		margin-top: 80px;
+		margin-left: -22px;
+	}
+
+	.block-2 {
+
+		display: inline-block;
+    	vertical-align: middle;
+    	padding: 0 11px;
+	}
+
+	.block-2 a {
+		color: #898789;
+		font-size: 16px;
+	}
+
+	.block-1 {
+		display: inline-block;
+    	vertical-align: middle;
+    	border-right: 1px solid #888788;
+    	padding: 0 20px;
+	}
+
+	.block-1 a {
+		color: #030000;
+		font-size: 16px;
+	}
+	
